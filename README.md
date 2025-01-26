@@ -1,7 +1,6 @@
 This is a "port" of GNU Chess 5.05 to OS/400. It contains only the source files
 necessary to compile a runnable program object. The orignal code can be obtained
-at [https://ftp.gnu.org/gnu/chess/gnuchess-5.05.tar.gz]
-(https://ftp.gnu.org/gnu/chess/gnuchess-5.05.tar.gz).
+at https://ftp.gnu.org/gnu/chess/gnuchess-5.05.tar.gz.
 
 ## License.
 The GNU Chess original license applies, which is the GPL version 2, or later.
