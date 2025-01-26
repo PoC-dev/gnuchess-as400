@@ -1,0 +1,36 @@
+ascii
+get GNUCHESS/H.BOOK book.h
+get GNUCHESS/H.COMMON common.h
+get GNUCHESS/H.CONFIG config.h
+get GNUCHESS/H.EVAL eval.h
+get GNUCHESS/H.INLINES inlines.h
+get GNUCHESS/H.VERSION version.h
+get gnuchess/QCSRC.ATAK atak.c
+get gnuchess/QCSRC.BOOK book.c
+get gnuchess/QCSRC.CMD cmd.c
+get gnuchess/QCSRC.EPD epd.c
+get gnuchess/QCSRC.EVAL eval.c
+get gnuchess/QCSRC.GENMOVE genmove.c
+get gnuchess/QCSRC.HASH hash.c
+get gnuchess/QCSRC.HUNG hung.c
+get gnuchess/QCSRC.INIT init.c
+get gnuchess/QCSRC.ITERATE iterate.c
+get gnuchess/QCSRC.MAIN main.c
+get gnuchess/QCSRC.MOVE move.c
+get gnuchess/QCSRC.NULL null.c
+get gnuchess/QCSRC.OUTPUT output.c
+get gnuchess/QCSRC.PGN pgn.c
+get gnuchess/QCSRC.PLAYERS players.c
+get gnuchess/QCSRC.QUIESCE quiesce.c
+get gnuchess/QCSRC.RANDOM random.c
+get gnuchess/QCSRC.REPEAT repeat.c
+get gnuchess/QCSRC.SEARCH search.c
+get gnuchess/QCSRC.SOLVE solve.c
+get gnuchess/QCSRC.SORT sort.c
+get gnuchess/QCSRC.SWAP swap.c
+get gnuchess/QCSRC.TEST test.c
+get gnuchess/QCSRC.TTABLE ttable.c
+get gnuchess/QCSRC.UTIL util.c
+get gnuchess/QCSRC.VERSION version.c
+get gnuchess/QREXSRC.MAKE make.rexx
+quit
