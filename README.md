@@ -18,7 +18,7 @@ had to be generated manually. The sources have been tested to compile in OS/400
 V4R4, and later.
 
 Unfortunately, this version can't be compiled for V3. The source code makes use
-of 64 bit integer values, and teh C compiler for V3 doesn't understand `long
+of 64 bit integer values, and the C compiler for V3 doesn't understand `long
 long int`.
 
 Only minimal testing of the resulting program has been done. Especially
